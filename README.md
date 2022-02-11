@@ -1,6 +1,6 @@
 # Simple Payment System
 
-The repository for [Building Simple Payment Application  with Go using Data Driven Architecture]
+This repository for [Building Simple Payment Application  with Go using Data Driven Architecture]
 
 
 
@@ -26,4 +26,4 @@ You can use any one of the fallowing procedure to make a install dependencies,
 - Run go mod init
 - Run go mod tidy
 - RUN go mod vendor[Option]
-- docker-compose.yaml file.This contains the script to run the instance applicaton 
+- docker-compose.yaml file.This contains the script to run the instance of applicaton 
